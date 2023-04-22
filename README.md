@@ -5,7 +5,7 @@
 - 📫 reach me NanSang2000@gmail.com
 - 🏫 I'm currently studying at Unimelb.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanSang2000&theme=default &show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanSang2000&theme=default&show_icons=true)
 
 <!---
 NanSang2000/NanSang2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
