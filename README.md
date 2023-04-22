@@ -18,16 +18,12 @@
     + [《沉默的大多数》](https://en.wikipedia.org/wiki/Silent_majority)
 
  
- 
- <img src="https://github-readme-stats.vercel.app/api?username=NanSang2000&theme=default&show_icons=true" alt="logo" height="200" align="left" style="" />
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NanSang2000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanSang2000&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanSang2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-<p>
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NanSang2000&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-</p>
+
 
  🎃 My Projects
  
