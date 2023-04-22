@@ -1,8 +1,8 @@
- Hi, There I’m Nan 👋
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me NanSang2000@gmail.com
+ ### Hi, There I’m Nan 👋
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently learning `unity` , `CV` , `TypeScript` , `R` and `Vue.js`. 
+- 🔭 I’m currently focusing on Data, especially algorism.
+- 📫 reach me NanSang2000@gmail.com
 - 🏫 I'm currently studying at Unimelb.
 
 
