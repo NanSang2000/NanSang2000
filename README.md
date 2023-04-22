@@ -6,6 +6,8 @@
 - 🏫 I'm currently studying at Unimelb.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanSang2000&theme=default&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanSang2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NanSang2000/NanSang2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
