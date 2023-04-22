@@ -1,11 +1,11 @@
 <p align="center">
-  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='100"'><br>
+  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif' width='30"'><br>
 </p>
  
  ### Hi, There I’m Nan 👋
  - 👀 I’m interested in Artificial Intelligence.
  - 🌱 I’m currently learning `unity` , `CV` , `TypeScript` , `R` and `Vue.js`.                 
- - 🔭 I’m currently focusing on Data, especially algorism.
+ - 🔭 I’m currently focusing on Data processing, especially algorism.
  - 📫 reach me NanSang2000@gmail.com
  - 🏫 I'm currently studying at Unimelb.
  - 📖 I'm reading  ❤️
