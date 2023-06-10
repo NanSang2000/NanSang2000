@@ -27,7 +27,7 @@
 
  🎃 My Projects
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/NanSang2000/uom-study-spaces)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/NanSang2000/uom-study-spaces)
 
  ⚡ Projects I've contributed to 
  <div align="center">
