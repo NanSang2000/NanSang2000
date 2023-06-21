@@ -4,7 +4,7 @@
  
  ### Hi, There I’m Nan 👋
  - 👀 I’m interested in Artificial Intelligence.
- - 🌱 I’m currently learning `unity` , `CV` , `TypeScript` , `R` and `Vue.js`.                 
+ - 🌱 I’m currently learning `unity` , `ComputerVision` , `TypeScript` , `R` and `Vue.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
  - 📫 reach me NanSang2000@gmail.com
  - 🏫 I'm currently studying at Unimelb.
