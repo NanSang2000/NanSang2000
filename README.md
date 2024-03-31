@@ -26,10 +26,10 @@
 <img align='center' src='https://github.com/NanSang2000/NanSang2000/blob/output/github-contribution-grid-snake.svg' width='900"'>
 
  🎃 My Projects
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=Blog)](https://github.com/NanSang2000/Blog)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=XiaoAiTimetable)](https://github.com/NanSang2000/Douyin_project_server)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=Douyin_project_server)](https://github.com/NanSang2000/Douyin_project_server)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/NanSang2000/uom-study-spaces)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/Nahttps://github.com/NanSang2000/XiaoAiTimetablenSang2000/uom-study-spaces)
  
  
  ⚡ Projects I've contributed to 
