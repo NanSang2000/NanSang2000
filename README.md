@@ -34,7 +34,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/NanSang2000/count.svg) Vis
  
  ⚡ Projects I've contributed to 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/Nahttps://github.com/NanSang2000/XiaoAiTimetablenSang2000/uom-study-spaces)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/NanSang2000/uom-study-spaces)
   
  <div align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
