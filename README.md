@@ -30,7 +30,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/NanSang2000/count.svg) Vis
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=XiaoAiTimetable)](https://github.com/NanSang2000/XiaoAiTimetable)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=Douyin_project_server)](https://github.com/NanSang2000/Douyin_project_server)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=hackethon-battleship)](https://github.com/NanSang2000/hackethon-battleship)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=hackethon-battleship)](https://github.com/NanSang2000/hackethon-battleship)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=DotCraft)](https://github.com/NanSang2000/DotCraft)
  
  ⚡ Projects I've contributed to 
  
