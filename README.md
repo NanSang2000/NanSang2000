@@ -8,7 +8,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/NanSang2000/count.svg) Vis
  - 🌱 I’m currently learning `unity` , `ComputerVision` , `TypeScript` , `R` and `Vue.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
  - 📫 reach me NanSang2000@gmail.com
- - 🏫 I'm currently studying at Unimelb.
  - 📖 I'm reading  ❤️
     + [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
     + [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
