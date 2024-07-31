@@ -1,5 +1,5 @@
 <p align="center">
-  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif' width='30"'><br>
+  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif' width='15"'><br>
 </p>
  
  ### Hi, There I’m Nan 👋
