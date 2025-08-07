@@ -5,7 +5,7 @@
  ### Hi, There I’m Nan 👋
 My ![Visitor Count](https://profile-counter.glitch.me/NanSang2000/count.svg) Visitor.
  - 👀 I’m interested in AIGC.
- - 🌱 I’m currently learning `unity` , `ComputerVision` , `TypeScript` , `R` and `Vue.js`.                 
+ - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
  - 📫 reach me NanSang2000@gmail.com
  - 📖 I'm reading  ❤️
