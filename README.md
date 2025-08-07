@@ -3,7 +3,7 @@
 </p>
  
  ### Hi, There I’m Nan 👋
-My ![Visitor Count](https://komarev.com/ghpvc/?username=NanSang2000&color=orange&style=plastic&label=Visitor) Visitor.
+My ![Visitor Count](https://komarev.com/ghpvc/?username=NanSang2000&color=orange&style=plastic&label=) Visitor.
  - 👀 I’m interested in AIGC.
  - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
